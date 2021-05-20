@@ -1,93 +1,75 @@
 .container {
-  background-image:url("img/11.jpg");
-  position:fixed;
-  right:0;
-  top:o;
-  width: 100vw;
-  height: 100vh;
-  background-size: cover;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  }
+background-image:url("img/11.jpg");
+position:fixed;
+right:0;
+top:o;
+width: 100vw;
+height: 100vh;
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+}
 
-  .box1{
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-    height: 460px;
-    width: 440px;
-    background: #210ee9;
-    opacity: 0.8;
-  }
+.box1{
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+margin: auto;
+height: 460px;
+width: 440px;
+background: #210ee9;
+opacity: 0.8;
 
+}
 
-  .img1{
-    position:absolute; 
-    top:50%; 
-    left:50%; 
-    transform:translate(-50%, -50%); 
-    height: 650px;
-    width: 550px;
-    margin-top: -28px;
-  
-    
+.img1{
+position:absolute; 
+top:50%; 
+left:50%; 
+transform:translate(-50%, -50%); 
+height: 650px;
+width: 550px;
+margin-top: -28px;
+      
 }
 
 .btn1{
-  position: relative;
-  color:#ccc;
-  cursor: pointer;
-  width: 150px;
-  font-size: 24px;
-  font-family: arial;
-  background-color: #3c367e;
-  padding: 10px;
-  border-radius: 8px;
-  border:none;
-  background-color: #3c367e;
-  margin-left: -180px;
-  margin-top: 300px;
+position: relative;
+color:#ccc;
+cursor: pointer;
+width: 150px;
+font-size: 24px;
+font-family: arial;
+background-color: #3c367e;
+padding: 14px;
+border-radius: 8px;
+border:none;
+background-color: #3c367e;
+margin-left: -200px;
+margin-top: 200px;
 
-  }
+}
   
-  .btn1:hover {
-  
-  color:white;
-  filter: brightness( 50% );
-  
-  
-  }
+.btn1:hover {
+color:white;
+filter: brightness(50% );
 
-  .redir{
-    position: absolute;
-    color:#ccc;
-    cursor: pointer;
-    width: 150px;
-    font-size: 24px;
-    font-family: arial;
-    background-color: #3c367e;
-    padding: 10px;
-    border-radius: 8px;
-    border:none;
-    background-color: #3c367e;
-    margin-left: -220px;
-    margin-top: 300px;
+}
 
-    }
+.progress-div {
+width: 280px;
+max-width: 280px !important;
+background-color: #F1F1F1;
+height: 8px;
+border: 1px solid #F1F1F1;
+border-radius: 6px;
 
-    .progress-div {
-      width: 280px;
-      max-width: 280px !important;
-      background-color: #F1F1F1;
-      height: 8px;
-      border: 1px solid #F1F1F1;
-      border-radius: 6px;
-    }
-    .progress-bar {
-      background-color: #4EF0AC;
-      height: 8px;
-    }
+}
+.progress-bar {
+background-color: #4EF0AC;
+height: 8px;
+
+}

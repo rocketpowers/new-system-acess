@@ -173,7 +173,7 @@ filter: brightness( 50% );
 p{
 position: absolute;
 color: #fff;
-margin-top: -120px;
+margin-top: -150px;
 font-size: 26px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 
@@ -186,9 +186,10 @@ margin-bottom: 390px;
 font-size: 28px;
 margin-right: 350px;
 color:#fff;
-
+opacity: 0.6;
+    
 }
-        
+            
     
     
 
