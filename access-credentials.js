@@ -8,7 +8,7 @@ function acesso(form){
         form.nome.value=="magaiver" && form.senha.value=="456"||
         form.nome.value=="rocky" && form.senha.value=="789"){
     
-        location="pagina2.html"}
+        location="construction.html"}
         else{
             form.nome.value=""
             form.senha.value=""
