@@ -48,8 +48,7 @@ font-size: 20px;
 font-family: arial;
 padding: 10px;
 border-radius: 8px;
-border:none;
-background-color: #1b0bc9;
+background-color: #3c367e;
 
 margin-top: 120px;
 }
@@ -70,11 +69,8 @@ font-family: arial;
 background-color: #3c367e;
 padding: 10px;
 border-radius: 8px;
-border:none;
-background-color: #1b0bc9;
 margin-top: 50px;
 
-              
 }
                 
 .btn2:hover {
@@ -93,8 +89,6 @@ font-family: arial;
 background-color: #3c367e;
 padding: 10px;
 border-radius: 8px;
-border:none;
-background-color: #1b0bc9;
 margin-top: -20px;
                   
 }
@@ -114,8 +108,7 @@ font-size: 20px;
 font-family: arial;
 padding: 10px;
 border-radius: 8px;
-border:none;
-background-color: #1b0bc9;
+background-color: #3c367e;
 margin-left: 180px;
 margin-top:288px;
 }
@@ -135,8 +128,7 @@ font-size: 20px;
 font-family: arial;
 padding: 10px;
 border-radius: 8px;
-border:none;
-background-color: #1b0bc9;
+background-color: #3c367e;
 margin-left: -150px;
 margin-top: 49px;
 
@@ -157,8 +149,7 @@ font-size: 20px;
 font-family: arial;
 padding: 10px;
 border-radius: 8px;
-border:none;
-background-color: #1b0bc9;
+background-color: #3c367e;
 margin-left: -150px;
 margin-top: -20px;
              
@@ -179,7 +170,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 
-i{
+a{
 
 position: absolute;
 margin-bottom: 390px;

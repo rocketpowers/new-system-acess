@@ -113,4 +113,17 @@ filter: brightness(50% );
 h6{
 
 margin-top: -20px;
+
 }
+
+a{
+
+    position: absolute;
+    margin-bottom: 390px;
+    font-size: 28px;
+    margin-right: 350px;
+    color:#fff;
+    opacity: 0.6;
+    
+        
+    }
