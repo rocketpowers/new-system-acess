@@ -42,7 +42,7 @@ position:absolute;
 color:#ccc;
 cursor: pointer;
 width: 150px;
-font-size: 20px;
+font-size: 18px;
 font-family: arial;
 padding: 10px;
 border-radius: 8px;
@@ -62,7 +62,7 @@ position:absolute;
 color:#ccc;
 cursor: pointer;
 width: 150px;
-font-size: 20px;
+font-size: 18px;
 font-family: arial;
 background-color: #3c367e;
 padding: 10px;
@@ -83,7 +83,7 @@ position:absolute;
 color:#ccc;
 cursor: pointer;
 width: 150px;
-font-size: 20px;
+font-size: 18px;
 font-family: arial;
 background-color: #3c367e;
 padding: 10px;
@@ -103,7 +103,7 @@ position:relative;
 color:#ccc;
 cursor: pointer;
 width: 150px;
-font-size: 20px;
+font-size: 18px;
 font-family: arial;
 padding: 10px;
 border-radius: 8px;
@@ -124,7 +124,7 @@ position:absolute;
 color:#ccc;
 cursor: pointer;
 width: 150px;
-font-size: 20px;
+font-size: 18px;
 font-family: arial;
 padding: 10px;
 border-radius: 8px;
@@ -145,7 +145,7 @@ position:absolute;
 color:#ccc;
 cursor: pointer;
 width: 150px;
-font-size: 20px;
+font-size: 18px;
 font-family: arial;
 padding: 10px;
 border-radius: 8px;
@@ -180,9 +180,19 @@ color:#fff;
 opacity: 0.6;
         
 }
+
+
                 
 
-        
+z{
+    position: absolute;
+    margin-bottom: 390px;
+    font-size: 28px;
+
+    margin-right:200px;
+    
+    color:#FFFFFF;
+    opacity: 0.6;
         
     
     

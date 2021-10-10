@@ -1,16 +1,17 @@
-var client = {
 
-nome:'abobora',
-login:'abobora',
-senha:'123',
+localStorage.setItem("saldo", "00.00");
+    var client = {
+    nome:'mike',
+
+
 conta:'ax23',
 saldo:33.22
+
 
 }
 
 var add_dinheiro = function(valor){
-
-    client.saldo=client.saldo+valor;
+ client.saldo=client.saldo+valor;
 }
 
 var remover_dinheiro=function(valor){
@@ -30,4 +31,8 @@ var consultar_client=function(){
     console.log('saldo: '+ client.senha);
 }
 
-consultar_saldo();
+//add_dinheiro(100);
+
+//consultar_saldo();
+
+
